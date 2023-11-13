@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmehedi-ce" alt="devmehedi-ce" /></a> </p>
 
-- 🌱 I’m currently learning MERN Stake Development **MongoDB, Express Js, React Js, Node Js**
+- 🌱 I’m currently learning MERN Stack Development **MongoDB, Express Js, React Js, Node Js**
 
 - 📫 How to reach me **engmehedihasan22@gmail.com**
 
